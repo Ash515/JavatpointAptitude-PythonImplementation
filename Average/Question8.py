@@ -15,4 +15,4 @@ step2=(boys+inclusion_staffs)*(boys_age+1)
 sum_of_ages_two_staffs=step2-step1
 print("The sum of ages of the two teachers",sum_of_ages_two_staffs,"years")
 
-#Output=> The sum of ages of the two teachers 62 years
+#Output=> The sum of ages of the two teachers 62 years.
